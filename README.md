@@ -1,16 +1,11 @@
-# list_wisata
+Nama : Yasmin Anindita Azzahra
 
-A new Flutter project.
 
-## Getting Started
+Nim : 33421024
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+kelas : IK2A
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/117325654/212105502-ed80f278-5a5c-435b-8b2b-cf8f22cbc9f9.png)
+![image](https://user-images.githubusercontent.com/117325654/212105520-baf9681d-135b-47c4-8944-5e6517959d58.png)
+![image](https://user-images.githubusercontent.com/117325654/212105551-fd058899-88e8-4b53-be68-c1bbd8345951.png)
